@@ -1,0 +1,15 @@
+theia@theia-faircloth:/home/project$ wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/InaFqKi-TlmTZwlzKvlNaQ/DV0101EN-Final-Assign-Part-2-Questions.py
+--2024-07-31 14:18:10--  https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/InaFqKi-TlmTZwlzKvlNaQ/DV0101EN-Final-Assign-Part-2-Questions.py
+Resolving cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)... 169.63.118.104, 169.63.118.104
+Connecting to cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud (cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud)|169.63.118.104|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6813 (6.7K) [application/x-python]
+Saving to: 'DV0101EN-Final-Assign-Part-2-Questions.py'
+
+DV0101EN-Final-Assign-P 100%[===============================>]   6.65K  --.-KB/s    in 0s      
+
+2024-07-31 14:18:10 (1.51 GB/s) - 'DV0101EN-Final-Assign-Part-2-Questions.py' saved [6813/6813]
+
+theia@theia-faircloth:/home/project$ html.H1("Automobile Sales Statistics Dashboard") style={'textalign'='center', 'color':'#503D36', 'font-size':24}     
+bash: syntax error near unexpected token `"Automobile Sales Statistics Dashboard"'
+theia@theia-faircloth:/home/project$ 
